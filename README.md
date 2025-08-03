@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome! I'm Dhruv 👋  
 
-<!--
-**dhruvkaul03/dhruvkaul03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Statistics graduate from UIUC  
+🔍 Actively seeking Data Analyst / Data Science roles  
+⚡ Passionate about solving real-world problems with Python, SQL, and Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects to check out:
+- [Retail Revenue Analytics](https://github.com/DhruvKaul03/Retail-Revenue-Analytics) — A Power BI dashboard that visualizes $258K in sales
+- [More coming soon!]
+
+---
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/dhruvkaul03/)
+- 📧 dhruvpkaul@gmail.com
