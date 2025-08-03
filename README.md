@@ -15,10 +15,21 @@
 
 ---
 
-### 📈 Featured Project
+## 🚀 Featured Projects
 
-**[Retail Revenue Analytics](https://github.com/DhruvKaul03/Retail-Revenue-Analytics)**  
-An end-to-end data project simulating and visualizing $258K in sales for a fictional coffee shop using Python, SQL, and Power BI.
+Here are some of my projects demonstrating end-to-end data science, analytics, and AI skills:
+
+- [**Retail Revenue Analytics**](https://github.com/dhruvkaul03/Retail-Revenue-Analytics)  
+  Simulated 30,000+ coffee shop transactions and used SQL, Python, and Power BI to identify top-selling products, peak hours, and location-based revenue drivers.
+
+- [**Cancer Detection AI**](https://github.com/dhruvkaul03/Cancer-Detection-AI)  
+  Trained a neural network in TensorFlow to classify tumors with ~96% accuracy using clinical features. Applied data preprocessing, early stopping, and loss tracking.
+
+- [**EduAssist – AI Research Internship**](https://github.com/dhruvkaul03/EduAssist-AI-Research-Internship)  
+  Fine-tuned a Mixtral LLM and built a custom RAG pipeline to generate educational responses from research PDFs. Implemented OCR (EasyOCR), document parsing, and Streamlit interface.
+
+- [**UIUC GPA Analysis App**](https://github.com/dhruvkaul03/R-Projects)  
+  Created an interactive Shiny dashboard that visualizes average GPA trends by department and course level using cleaned university course data.
 
 ---
 
